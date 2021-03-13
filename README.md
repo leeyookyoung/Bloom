@@ -10,7 +10,7 @@ This is for [Android Dev Challenge for Week 3 - Speed round](https://android-dev
 
 
 ## :bulb: Motivation and Context
-It was hard but challenging submission!!
+It was hard but challenging submission!
 
 
 ## :camera_flash: Screenshots
