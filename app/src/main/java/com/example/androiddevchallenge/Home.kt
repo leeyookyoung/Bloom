@@ -273,7 +273,8 @@ fun DesignYourHomeGardenContent(designYourHomeGarden: DesignYourHomeGarden, dark
                         .constrainAs(divider) {
                             bottom.linkTo(parent.bottom)
                             start.linkTo(parent.start)
-                        }
+                        },
+
                 )
             }
         }
@@ -296,7 +297,7 @@ fun BrowseThemesContent(browseTheme: BrowseTheme, darkMode: Boolean) {
                     painter = painterResource(id = browseTheme.resId),
                     contentDescription = null,
                     modifier = Modifier
-                        .size(width = 115.dp, height = 96.dp)
+                        .size(width = 125.dp, height = 96.dp)
                         .clip(
                             RoundedCornerShape(topStart = 4.dp, topEnd = 4.dp)
                         ),
