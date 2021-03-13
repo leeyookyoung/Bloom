@@ -209,7 +209,7 @@ fun DesignYourHomeGardenContent(designYourHomeGarden: DesignYourHomeGarden, dark
             ConstraintLayout(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(start = sideDp, end = sideDp)
+                    .padding(start = sideDp)
             ) {
                 val (text, description, check, space1, divider, space2) = createRefs()
                 Box(
